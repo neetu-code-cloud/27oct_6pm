@@ -1,0 +1,5 @@
+◾Template Presentation Structure:
+◾Minute 1: Problem statement, target persona, and business value proposition.
+◾Minutes 2-4: Live workspace demo (UC007 claims UI or UC004 clinical grounding portal & human oversight routing).
+◾Minute 5: Technical architecture highlights, RAG grounding, and Purview/security controls.
+◾Minute 6: Evaluation results (accuracy, groundedness, latency) and Q&A defense.
